@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: tufai
+Build-Jdk: 15.0.2
+Implementation-Title: SpringBootHelloWorld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ahmed
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-soap-de
+ mo/
+Created-By: Maven Integration for Eclipse
+
